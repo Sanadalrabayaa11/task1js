@@ -1,0 +1,9 @@
+.demo {
+  background-color: aqua;
+  width: 30%;
+  height: 30%;
+}
+.vip {
+  border: solid 20px red;
+  width: fit-content;
+}
